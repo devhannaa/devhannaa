@@ -5,6 +5,6 @@
 <br>
 ❤️ I love coding, warm weather and tasty food
 <br>
-⚡ I hate lies and boring people
+⚡ I hate mushrooms and boring people
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hizmailovich&layout=compact)](https://github.com/hizmailovich/github-readme-stats)
